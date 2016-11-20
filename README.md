@@ -15,7 +15,7 @@ Join the conversation: <a href="http://s.si.edu/2f6boY5
 
 <h3>Plugins</h3>
 <ul>
-	<li>ACF</li>
+	<li><a href="http://www.advancedcustomfields.com">ACF</a></li>
 	<li><a href="https://wordpress.org/plugins/members/
 ">Members</a> - user roles</li>
 	<li>User Profiles
