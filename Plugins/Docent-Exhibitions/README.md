@@ -1,14 +1,14 @@
-# Docent Library Plugin
- * Plugin Name:       Library Plugin
+# Docent Exhibitions Training Plugin
+ * Plugin Name:       Exhibitions Training Plugin
  * Plugin URI:        https://github.com/FreerSackler/DocentTrainingSite
- * Description:       Enables books to be entered into a library catalog for display and search on a website.
+ * Description:       Post type for exhibitions training modules.
  * Version:           1.0.0
  * Author:            Freer|Sackler
  * Author URI:        http://www.asia.si.edu
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       fs-library
+ * Text Domain:       fs-exhibitions
  * Domain Path:       /languages
 
-Join the conversation: <a href="http://s.si.edu/2f6boY5
+In the meantime, join the conversation: <a href="http://s.si.edu/2f6boY5
 ">WordPress and Museums listserv</a>
